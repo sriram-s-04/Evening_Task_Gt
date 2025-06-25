@@ -62,3 +62,20 @@
 
 // // JavaScript Interns should Implement separate functions for each process.
 // // All user inputs (such as movie choice and number of seats, temperatures, etc..) should be passed as function parameters.
+
+
+// let n=371;
+// let temp=0,num=n,sum=0;
+// for(let itr=0;n>0;itr++){
+//     temp=n%10;
+//     sum+=(temp**3); 
+//     console.log(sum);
+    
+//     n=Math.floor(n/10);
+// }
+// if(sum==num){
+//     console.log(num,"is amstrong number");
+// }
+// else{
+//     console.log(num,"is not amstrong number")
+// }
