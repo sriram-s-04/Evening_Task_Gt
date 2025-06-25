@@ -30,7 +30,7 @@ console.log(c3);
 // Find the Nth Character in the Secret Word
 let secret ="Process"
 let N = 0;
-    N=((aconunt)%(secret.length) );
+    N=((c3)%(secret.length) );
 console.log(N);
 console.log(secret[N-1]);
 
